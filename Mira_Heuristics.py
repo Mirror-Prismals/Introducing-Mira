@@ -1,3 +1,5 @@
+"""**Heuristics approximate solutions or patterns based on shortcuts and probabilities, while semantics seek to capture deeper meaning and context grounded in understanding.**"""
+
 import mss
 import numpy as np
 from PIL import Image
